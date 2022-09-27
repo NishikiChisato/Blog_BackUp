@@ -32,7 +32,7 @@ public:
 	void Union(int p, int q);//在p和q之间添加一条连接
 	int find(int p);//p所在连通分量的标识符
 	bool connected(int p, int q);//如果p和q是连通的返回true
-	int count();//连通分量的数量
+	int Count();//连通分量的数量
     //一开始我们有N个分量，将两个分量归并的Union操作会使总连通分量数减一
 };
 ```
@@ -65,7 +65,7 @@ public:
 	{
 		return find(p) == find(q);
 	}
-	int count()//连通分量的数量
+	int Count()//连通分量的数量
 	{
 		return count;
 	}
@@ -196,7 +196,7 @@ public:
 	{
 		return find(p) == find(q);
 	}
-	int count()//连通分量的数量
+	int Count()//连通分量的数量
 	{
 		return count;
 	}
