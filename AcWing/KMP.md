@@ -1,7 +1,7 @@
 ---
 title: KMP
 tags: [KMP, 字符串]
-categories: OI
+categories: AcWing
 ---
 
 ## KMP

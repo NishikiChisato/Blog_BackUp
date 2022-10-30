@@ -1,6 +1,6 @@
 ---
 title: CSAPP 第二章 信息的表示和处理
-tags: CASPP
+tags: CSAPP
 categories: CSAPP
 ---
 

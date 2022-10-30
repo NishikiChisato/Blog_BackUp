@@ -1,7 +1,7 @@
 ---
 title: Trie树的实现及运用
 tags: [Trie]
-categories: OI
+categories: AcWing
 ---
 
 ## Trie 树

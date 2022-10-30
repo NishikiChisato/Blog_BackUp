@@ -1,6 +1,6 @@
 ---
 title: Union-Find 算法
-tags: [图, 算法]
+tags: [图, 算法, 并查集]
 categories: 算法4
 ---
 
